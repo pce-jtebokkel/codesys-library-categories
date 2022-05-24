@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LibraryCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LibraryCategories.xsd">
+    <LibraryCategory>
+        <Id>85708d59-91fb-4918-9eb4-759d4f9f3c1e</Id>
+        <Version>1.0.0.0</Version>
+        <DefaultName>PowerCore Engineering</DefaultName>
+    </LibraryCategory>
+    <LibraryCategory>
+        <Id>b76abcad-2244-434c-a42e-e26ecd2d4730</Id>
+        <Version>1.0.0.0</Version>
+        <ParentCategory>
+            <Id>85708d59-91fb-4918-9eb4-759d4f9f3c1e</Id>
+        </ParentCategory>
+        <DefaultName>Application</DefaultName>
+    </LibraryCategory>
+    <LibraryCategory>
+        <Id>8443cb08-861d-4c22-a281-718f117b6c29</Id>
+        <Version>1.0.0.0</Version>
+        <ParentCategory>
+            <Id>85708d59-91fb-4918-9eb4-759d4f9f3c1e</Id>
+        </ParentCategory>
+        <DefaultName>Logging</DefaultName>
+    </LibraryCategory>
+    <LibraryCategory>
+        <Id>a384784c-8b62-4771-9b4a-eb1004cb711c</Id>
+        <Version>1.0.0.0</Version>
+        <ParentCategory>
+            <Id>85708d59-91fb-4918-9eb4-759d4f9f3c1e</Id>
+        </ParentCategory>
+        <DefaultName>Lib</DefaultName>
+    </LibraryCategory>
+    <LibraryCategory>
+        <Id>1053dc96-c045-4d46-9f98-004ca9334bb7</Id>
+        <Version>1.0.0.0</Version>
+        <ParentCategory>
+            <Id>85708d59-91fb-4918-9eb4-759d4f9f3c1e</Id>
+        </ParentCategory>
+        <DefaultName>HMI</DefaultName>
+    </LibraryCategory>
+</LibraryCategories>
