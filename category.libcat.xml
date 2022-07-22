@@ -37,4 +37,12 @@
         </ParentCategory>
         <DefaultName>HMI</DefaultName>
     </LibraryCategory>
+    <LibraryCategory>
+        <Id>35c6fb7c-6258-4d90-a372-675cd6434879</Id>
+        <Version>1.0.0.0</Version>
+        <ParentCategory>
+            <Id>85708d59-91fb-4918-9eb4-759d4f9f3c1e</Id>
+        </ParentCategory>
+        <DefaultName>Visualizations</DefaultName>
+    </LibraryCategory>
 </LibraryCategories>
